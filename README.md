@@ -21,3 +21,12 @@ Outputs PDF plots to `plots/`.
 Place MATLAB data file (`info.mat`) in `scripts/`.
 
 Expected variables: `time`, `q1`, `q1ref`, `q2`, `q2ref`, `prismaArt`, `prismaRef`, `prismaOp`, `gripperL`, `gripperR`, `x`, `y`.
+
+## License
+
+[MIT](LICENSE)
+
+## Authors
+
+- Alvaro J. Gaona
+- Peter Pasuy-Quevedo
