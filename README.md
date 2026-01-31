@@ -1,6 +1,6 @@
-# SCARA Robot Analysis
+# SCARA Manipulator Simulation
 
-Visualization tools for SCARA robot PID control data.
+<img width="1324" height="414" alt="scara-sim" src="https://github.com/user-attachments/assets/76f9be53-5441-488d-9c4b-cd7c8a28a423" />
 
 ## Setup
 
