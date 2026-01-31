@@ -1,6 +1,6 @@
 # SCARA Manipulator Simulation
 
-<img width="1324" height="414" alt="scara-sim" src="https://github.com/user-attachments/assets/76f9be53-5441-488d-9c4b-cd7c8a28a423" />
+https://github.com/user-attachments/assets/020b8004-feb7-4a93-965b-c4e99ffbe820
 
 ## Setup
 
